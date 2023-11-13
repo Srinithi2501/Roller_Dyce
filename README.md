@@ -15,7 +15,8 @@ A simple and interactive dice roller app built using Flutter and Dart. This app 
 
 ![image](https://github.com/Srinithi2501/Roller_Dyce/assets/116148789/4ee6daa5-8cef-4dfe-a737-6f7cba011b82)
 
-![image](https://github.com/Srinithi2501/Roller_Dyce/assets/116148789/dc470e13-3769-4a47-9da3-283f7fd4d94d)
+![image](https://github.com/Srinithi2501/Roller_Dyce/assets/116148789/aecb2b10-c6dd-465e-8b93-a3a0a3f2fcb9)
+
 
 
 ## Getting Started
